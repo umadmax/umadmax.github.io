@@ -3,7 +3,7 @@
 /* --- General --- */
 
 body {
-  font-family: 'Roboto', 'Times New Roman', serif;
+  font-family: 'Roboto', sans-serif;
   font-size: 18px;
   color: #404040;
   position: relative;
@@ -18,7 +18,7 @@ p a {
   color: #008AFF;
 }
 h1,h2,h3,h4,h5,h6 {
-  font-family: 'Pacifico', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-family: 'Pacifico', cursive;
 }
 a {
   color: #008AFF;
