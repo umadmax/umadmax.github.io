@@ -176,6 +176,7 @@ img {
   width: 100%;
   border-radius: 50%;
   display: block;
+  background-color: #444;
 }
 
 .navbar-custom.top-nav-short .avatar-container{
