@@ -280,9 +280,6 @@ footer .theme-by {
   text-align: center;
   margin: 10px 0 0;
 }
-footer i.fa {
-  color: #fcfcfc;
-}
 
 @media only screen and (min-width: 768px) {
   footer {
