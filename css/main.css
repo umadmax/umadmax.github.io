@@ -264,7 +264,7 @@ footer {
 }
 
 footer a {
-  color: #fcfcfc;
+  color: #55acee;
 }
 
 footer .list-inline {
@@ -279,6 +279,9 @@ footer .copyright {
 footer .theme-by {
   text-align: center;
   margin: 10px 0 0;
+}
+footer i.fa {
+  color: #fcfcfc;
 }
 
 @media only screen and (min-width: 768px) {
