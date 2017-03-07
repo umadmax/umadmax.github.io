@@ -11,9 +11,9 @@ Après nous avoir balancé les mêmes formules pendant des années, Ubisoft a d�
 
 ### What is your quest ?   
 
-Ubisoft nous avait habitué à des scénarios peu folichons, mais celui de For Honor remporte haut la main la palme du wtf. Au moyen-âge, le monde était séparé en 3 civilisatiozs. Les vertueux chevaliers, les sauvages vikings et les disciplinés samouraïs. Quand soudain, un cataclysme naturel ravage le monde et tue quasiment toute la population. Les survivants, qui au départ se battaient pour survivre, on finit par oublier ce pourquoi ils se foutaient sur la gueule, et guerroient maintenant pour le sport.
+Ubisoft nous avait habitué à des scénarios peu folichons, mais celui de For Honor remporte haut la main la palme du wtf. Au moyen-âge, le monde était séparé en 3 civilisations. Les vertueux chevaliers, les sauvages vikings et les disciplinés samouraïs. Quand soudain, un cataclysme naturel ravage le monde et tue quasiment toute la population. Les survivants, qui au départ se battaient pour survivre, ont fini par oublier ce pourquoi ils se foutaient sur la gueule, et guerroient maintenant pour le sport.
 
-**Jean-Michel Scénarii a encore frappé**  
+**Jean-Michel Scénarii a encore frappé.**  
 
 Quant à parler de scénario, parlons du "contenu" solo du jeu. Il y a bien une campagne, ou plutôt un gros tuto déguisé, qui malgré son histoire plan plan et digne d'un bon gros navet de série B, propose des moments quand même bien épiques. Le reste du solo consiste à des duels contre l'IA dans une sorte de mode training un peu comme dans un jeu de versus.
 
@@ -32,8 +32,24 @@ Parlons des cartes justement. Assez nombreuses pour le coup, elles sont hyper bi
 Et je sais pas si c'est mon karma qui me joue des tours, mais quand je regardais mes partenaires en mode spectateur, j'avais l'impression d'assister à Sacré Graal. Les mecs tauntaient en boucle parce que ça fait bugger le perso et du coup c'est drôle, se jettaient des ponts, ou étaient juste afk.
 
 ![For Hodor](/img/for-hodor.jpg)
-> Le jeu auquel je joue en fait.
+> Le jeu auquel j'ai joué en fait.
 
 Ce dernier point n'est pas inhérent au jeu, mais aujourd'hui jouer à des jeux multijoueurs en équipe me fait perdre foi en l'humanité. Je suis loin d'être le meilleur joueur du monde, mais au moins je joue. Je reviendrai là dessus dans un article ultérieurement.
 
-### 
+### Jean-Michel Snare et son orchestre
+
+Visuellement parlant, le jeu est magnifique. Les persos sont très bien bien animés et modélisés, et cela grâce au nouveau Motion Engine d'Ubisoft. Les cartes sont hyper bien détaillés, les textures sont fines et les effets visuels et sonores sont ahurissants. Et même avec tout ça le jeu tourne en 30 fps presque tout le temps sur consoles, et en 60 fps sur PC. En revanche, l'interface est dégueulasse et mal foutue mais bon l'ergonomie n'a jamais été le fort d'Ubi.
+
+Autant graphiquement parlant le jeu envoie du lourd, autant au niveau sonore on est proche du néant. Entre l'annonceur sous Xanax en Fr et les musiques du mode multijoueur (au nombre INCROYABLE de... une seule), j'avais personnellement coupé les musiques et mis l'OST de Dark Souls 3 pour m'immerger au coeur de la bataille. Je vais m'attarder un peu sur la musique parce qu'en l'écoutant, on dirait purement et simplement que le budget instruments à été plus que réduit. A part un pauvre violon, et une caisse claire, vraiment, mais vraiment casse couilles y a rien. Mais on ne peut même pas penser ça car la campagne solo, quant à elle, propose des musiques épiques vraiment agréables et dans le ton du jeu.
+
+**POURQUOI ?!**
+
+Pourquoi ne pas avoir réutilisé les morceaux du mode solo dans le mode multi ? Là ça m'échappe.
+
+Ainsi, nous voilà arrivés au point qu'on est obligé d'aborder quand on parle d'un jeu Ubisoft, **LES BUGS**. Pour info, le jeu était depuis son annonce jouable durant plusieurs sessions avant sa sortie. 4 au total. Une pré-alpha, deux bétas fermées et une ouverte qui s'est terminée la veille de la sortie du jeu. Du coup logiquement, candide que je suis, je me suis dit que les bugs présents lors des différentes sessions seraient réglés.
+
+**QUE NENI.**
+
+Au menu deconnexions intempestives, menus qui freeze à chaque fois qu'on appuie quelque part, desfois au point de devoir redémarrer le jeu, musique qui disparaît (bon pour le coup ça c'est pas une grosse perte). Bref, manque plus qu'un assassin qui rentre dans les murs et la coupe est pleine. Au bout d'un moment, ce serait cool que les éditeurs arrêtent de nous prendre pour des cons à affirmer que les bétas sont faites pour identifier les bugs à corriger. Surtout que les builds utilisés durant les bétas ont plusieurs mois, mais possédent tout de même des bugs ENCORE présents dans la version finale.
+
+Mais bon, c'est Ubisoft, on est habitués.
