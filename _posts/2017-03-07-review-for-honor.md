@@ -3,6 +3,8 @@ layout: post
 title: Que trépasse si je faiblis !
 subtitle: Review de For Honor
 bigimg: /img/for-honor-1.jpg
+tags:
+- Reviews
 ---
 
 Après nous avoir balancé les mêmes formules pendant des années, Ubisoft a décidé depuis quelques temps d'oser sortir des limbes. Après le renouveau ô combien réussi de la licence Rainbow Six avec Siege, ils posent carrément les couilles sur la table et lance une nouvelle licence novatrice sur un secteur déjà bien bouché, à savoir les jeux multijoueurs à potentiel e-sport. Pari réussi ?

@@ -23,6 +23,8 @@ description: Du sel, de la poésie et beaucoup (trop) de subjectivité.
 
 # List of links in the navigation bar
 navbar-links:
+  Posts par Tag:
+    - Reviews: "/layouts/tagindex.html" 
   Le live: "http://www.twitch.tv/namzar"
   Les VoDs: "http://www.youtube.com/The+Namzar"
 
