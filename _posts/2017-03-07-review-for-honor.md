@@ -35,7 +35,7 @@ En mode de jeu spécifique au duel c'est vraiment fendard à jouer. Le hic, c'es
 
 > On se sent comme François Fillon face à la presse.
 
-Du coup la stratégie privilégiée, c'est le bus. Pour ceux qui n'auraient jamais connu les joies du bassin d'Arathi sur World of Warcraft, un bus consiste à se mettre tous ensemble et à rouler sur les points à prendre les uns après les autres. Et c'est diablement efficace en mode Dominion sur For Honor.
+Du coup la stratégie privilégiée, c'est le bus. Pour ceux qui n'auraient jamais connu les joies du bassin d'Arathi sur *World of Warcraft*, un bus consiste à se mettre tous ensemble et à rouler sur les points à prendre les uns après les autres. Et c'est diablement efficace en mode Dominion sur For Honor.
 
 Mais tu vas me dire : *"T'as des coéquipiers non ?"*
 
@@ -50,9 +50,9 @@ Le sel qui est mien après avoir passé plusieurs heures en multijoueur n'est pa
 
 ### Jean-Michel Snare et son orchestre
 
-Visuellement parlant, le jeu est magnifique. Les persos sont très bien bien animés et modélisés, et cela grâce au nouveau Motion Engine d'Ubisoft. Les cartes sont hyper bien détaillés, les textures sont fines et les effets visuels et sonores sont ahurissants. Et même avec tout ça le jeu tourne en 30 fps presque tout le temps sur consoles, et en 60 fps sur PC. En revanche, l'interface est dégueulasse et mal foutue mais bon l'ergonomie n'a jamais été le fort d'Ubi.
+Visuellement parlant, le jeu est magnifique. Les persos sont très bien bien animés et modélisés, et cela grâce au nouveau *Motion Engine* d'Ubisoft. Les cartes sont hyper bien détaillés, les textures sont fines et les effets visuels et sonores sont ahurissants. Et même avec tout ça le jeu tourne en 30 fps presque tout le temps sur consoles, et en 60 fps sur PC. En revanche, l'interface est dégueulasse et mal foutue mais bon l'ergonomie n'a jamais été le fort d'Ubi.
 
-Autant graphiquement parlant le jeu envoie du lourd, autant au niveau sonore on est proche du néant. Entre l'annonceur sous Xanax en français et les musiques du mode multijoueur (au nombre INCROYABLE de... une seule), j'avais personnellement coupé les musiques et mis l'OST de Dark Souls 3 pour m'immerger au coeur de la bataille.
+Autant graphiquement parlant le jeu envoie du lourd, autant au niveau sonore on est proche du néant. Entre l'annonceur sous Xanax en français et les musiques du mode multijoueur (au nombre INCROYABLE de... une seule), j'avais personnellement coupé les musiques et mis l'OST de *Dark Souls 3* pour m'immerger au coeur de la bataille.
 Je vais m'attarder un peu sur la musique parce qu'en l'écoutant, on dirait purement et simplement que le budget instruments a été plus que réduit. A part un pauvre violon, et une caisse claire, vraiment, mais vraiment casse couilles, y a rien. Et le pire dans cette histoire, et c'est là où c'est le mindfuck, c'est que la campagne solo, quant à elle, propose des musiques épiques vraiment agréables et dans le ton du jeu.
 
 **POURQUOI ?!** Pourquoi ne pas avoir réutilisé les morceaux du mode solo dans le mode multi ? Là ça m'échappe.
