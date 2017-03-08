@@ -3,7 +3,7 @@ layout: post
 title: Que trépasse si je faiblis !
 subtitle: Review de For Honor
 bigimg: /img/for-honor-1.jpg
-share-img: /img/for-hodor.jpg
+share-img: http://umadmax.fr/img/for-hodor.jpg
 tags:
 - Reviews
 ---
