@@ -17,7 +17,7 @@ Tout d'abord, parlons du scénario du jeu. Première chose à savoir, c'est la _
 Actuellement en fac de japonais et suivant donc des cours de civilisation japonaise, ce qui m'a marqué le plus dans Nioh c'est le soin avec lequel ils ont mélangé la realité historique avec les légendes du folklore japonais. J'ai retrouvé tout au long du jeu des personnages historiques dans leurs fonctions historiques, tels que _Oda Nobunaga_ ou encore _Tokugawa Ieyasu_ pour ne citer qu'eux, des lieux existants ou ayant existés, et surtout comme dit plus haut la sensation de participer activement à cette partie de l'Histoire. C'est con comme truc, mais sur moi ça a putain de bien marché.
 
 ![Oda Nobunaga](/img/nobunaga.jpg)
-> C'est le même mec. Ouais je sais ça saute pas aux yeux.
+> C'est le même mec, Oda Nobugawa. Ouais je sais ça saute pas aux yeux.
 
 J'invite d'ailleurs les plus anglophones d'entre vous à aller lire [cet article](http://gadget.fsetyt.com/articles/nioh-a-game-about-magicians-and-demons-based-on-real-events.html) qui décrit très bien ce que je viens de dire, comparaisons à l'appui. **Attention, spoilers**
 
