@@ -8,7 +8,7 @@ tags:
 - Reviews
 ---
 
-J'ai connu Nioh lors de son annonce sur PS2 en 2006. Repoussé, mis au placard puis quasiment abandonné, on peut dire que le jeu n'était plus voué à voir le jour. Mais l'avénement de la série des _Souls_, et le renouveau du hardcore dans les jeux vidéo ont décidé _Sony_ et la _Team Ninja_ à ressortir le jeu de son tiroir poussièreux il y a deux ans. Et après 10 ans de développement chaotique, le jeu est enfin paru, sur PS4. **On connait les arlésiennes, c'est jamais bon signe**. Quoiqu'il en soit, le jeu arrive t-il à se défaire de cette image de clone de Dark Souls au Japon qui lui colle à la peau depuis sa nouvelle annonce ?
+J'ai connu Nioh lors de son annonce sur PS2 en 2006. Repoussé, mis au placard puis quasiment abandonné, on peut dire que le jeu n'était plus voué à voir le jour. Mais l'avénement de la série des _Souls_, et le renouveau du hardcore dans les jeux vidéo ont décidé _Sony_ et la _Team Ninja_ à ressortir le jeu de son tiroir poussièreux. Et après 10 ans de développement chaotique, le jeu est enfin paru, sur PS4. **On connait les arlésiennes, c'est jamais bon signe**. Quoiqu'il en soit, le jeu arrive t-il à se défaire de cette image de clone de Dark Souls au Japon qui lui colle à la peau depuis sa nouvelle annonce ?
 
 ### Les aventures de Geralt de Riv au Japon.   
 
