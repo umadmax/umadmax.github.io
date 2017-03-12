@@ -19,7 +19,7 @@ Actuellement en fac de japonais et suivant donc des cours de civilisation japona
 ![Oda Nobunaga](/img/nobunaga.jpg)
 > C'est le même mec, Oda Nobugawa. Ouais je sais ça saute pas aux yeux.
 
-J'invite d'ailleurs les plus anglophones d'entre vous à aller lire [cet article](http://gadget.fsetyt.com/articles/nioh-a-game-about-magicians-and-demons-based-on-real-events.html) qui décrit très bien ce que je viens de dire, comparaisons à l'appui. **Attention, spoilers**
+J'invite d'ailleurs les plus anglophones d'entre vous à aller lire [cet article](http://gadget.fsetyt.com/articles/nioh-a-game-about-magicians-and-demons-based-on-real-events.html) qui décrit très bien ce que je viens de dire, comparaisons à l'appui. **Attention, spoilers**.
 
 Autre truc qui peut choquer, c'est la forte ressemblance de William avec Geralt de Riv, le héros d'_Andrev Sapkowski_. Clin d'oeil ou plagiat, shirinai.
 
