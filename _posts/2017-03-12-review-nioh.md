@@ -49,7 +49,7 @@ Et comme dans tout jeu qui base la puissance du personnage sur son stuff, on arr
 
 ### C'est pas forcément la plus grosse qu'est la mieux.
 
->Coté contenu, le jeu est semblable à une miche de pain. C'est copieux, consistant, mais au final c'est rempli d'air et ça cale trop vite.
+**Coté contenu, le jeu est semblable à une miche de pain. C'est copieux, consistant, mais au final c'est rempli d'air et ça cale trop vite.**
 
 J'ai mis 80 heures pour finir le jeu à 100%. En sachant que la quête principale se boucle en 25 heures, que nous reste-il ? Tout d'abord des missions annexes qui consistent à refaire les zones des missions principales pour aller chercher l'épée que Machin a paumé, éradiquer des démons, ramasser des objets, ou battre le premier boss du jeu 10 fois d'affilée. D'autre part, le jeu propose les missions crépuscules, qui sont en fait les missions principales, mais sous stéroïdes. Les ennemis sont généralement que des Oni, qui font plus mal, ont plus de vie mais ce qui est ridicule c'est que le boss, lui par contre ne change pas. Du coup déjà qu'il était pas très compliqué, là on le viole.
 Bref, mis à part l'histoire principale qui je le maintiens, est très bien, le reste de jeu n'est que du remplissage insipide.
